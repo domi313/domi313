@@ -1,1 +1,1 @@
-<h1><style = center>professional troublemaker</h1>
+<h1>professional troublemaker</h1>
