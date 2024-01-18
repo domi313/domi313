@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Dominik and I'm a student from Luxembourg</h2>
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
